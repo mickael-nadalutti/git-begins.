@@ -1,9 +1,4 @@
-Cloner un repo
- git clone github_url local_directory 
-Les 3 commandes de push 
-git add
-git commit 
-git push 
+Commande permettant de crée une branche:
+git branch suivie du nom de la branche
 
-rajouter la commande qui permet de pull
-git pull 
+Commande permettant de switcher de branche:
