@@ -1,0 +1,6 @@
+Cloner un repo
+ git clone github_url local_directory 
+Les 3 commandes de push 
+git add
+git commit 
+git push 
