@@ -1,4 +1,18 @@
+
+Cloner un repo
+git clone github_url local_directory
+
+Les 3 commandes pour push 
+git add
+git commit -m 
+git push 
+
+Commande pour pull 
+
+git pull
+
 Commande permettant de crée une branche:
 git branch suivie du nom de la branche
 
 Commande permettant de switcher de branche:
+git checkout suivie de la branche ou l on veut basculer 
